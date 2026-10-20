@@ -1,0 +1,6 @@
+{
+  "meta": {
+    "title": "MCP Manager",
+    "description": "Adds an MCP manager entry beside the application menus and manages MCP servers through a mainstream mcpServers JSON file."
+  }
+}

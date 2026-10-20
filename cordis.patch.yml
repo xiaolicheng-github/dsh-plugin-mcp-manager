@@ -1,0 +1,4 @@
+# MCP 管理：窗口头部入口与 mcpServers 配置面板。
+- insert:
+    - id: mcp-manager
+      name: "@local/dsh-mcp-manager"

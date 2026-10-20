@@ -1,0 +1,6 @@
+{
+  "meta": {
+    "title": "MCP 管理",
+    "description": "在应用菜单右侧增加 MCP 管理入口，以主流的 mcpServers JSON 方式管理 MCP 服务器。"
+  }
+}
